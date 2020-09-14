@@ -1,1 +1,3 @@
 # KOMOK
+
+## KOMOKLU BAU KETEK
